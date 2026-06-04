@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocio", "LogicaNegocio\LogicaNegocio.csproj", "{8E16759C-4D8D-4C4E-B612-A6082C6C86F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocio.Tests", "LogicaNegocio.Tests\LogicaNegocio.Tests.csproj", "{8BD82775-B3FD-4CE1-A050-C4BA607DFB41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E16759C-4D8D-4C4E-B612-A6082C6C86F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E16759C-4D8D-4C4E-B612-A6082C6C86F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E16759C-4D8D-4C4E-B612-A6082C6C86F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E16759C-4D8D-4C4E-B612-A6082C6C86F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD82775-B3FD-4CE1-A050-C4BA607DFB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD82775-B3FD-4CE1-A050-C4BA607DFB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD82775-B3FD-4CE1-A050-C4BA607DFB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD82775-B3FD-4CE1-A050-C4BA607DFB41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
